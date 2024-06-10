@@ -44,7 +44,7 @@ This project is a web application that allows hospital staffs to send SMS messag
     SENDER_ID=your_sender_id
     ```
    
-make sure to run the backend on different window.    
+make sure to run the backend on different window or use different terminals.    
 
 4. Start the backend server:
 
