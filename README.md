@@ -31,6 +31,7 @@ This project is a web application that allows hospital staffs to send SMS messag
 
     ```sh
     git checkout frontend
+    cd SMS_Project
     cd backend
     yarn install
     ```
@@ -57,6 +58,7 @@ make sure to run the backend on different window.
 
     ```sh
     git checkout frontend
+    cd SMS_Project
     yarn install
     ```
 
